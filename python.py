@@ -4,5 +4,5 @@ discount = 0.1
 
 print(price*quantity*discount)
 
-sales
-profit
+sales = 10000
+profit = 1500
