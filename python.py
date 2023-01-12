@@ -1,3 +1,4 @@
 price = 10
 quantity = 15
-print(price*quantity)
+discount = 0.1
+print(price*quantity*discount)
